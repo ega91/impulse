@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="464" height="338" viewBox="0 0 464 338">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a230ed"/>
+      <stop offset="0.512" stop-color="#5109be"/>
+      <stop offset="1" stop-color="#32028e" stop-opacity="0.902"/>
+    </linearGradient>
+    <filter id="Rectangle_3558" x="164" y="31" width="244" height="244" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3559" x="-12" y="-12" width="488" height="362" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-2"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_3559)">
+        <rect id="Rectangle_3559-2" data-name="Rectangle 3559" width="464" height="338" rx="12" transform="translate(214 1921)" fill="#fff"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_3548" x="164" y="31" width="244" height="244" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_3558)">
+        <rect id="Rectangle_3558-2" data-name="Rectangle 3558" width="196" height="196" rx="40" stroke="#fff" stroke-width="4" fill="url(#linear-gradient)"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_3557" x="290" y="157" width="158" height="158" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3594" x="311" y="86" width="119" height="178.877" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ilustrasi_contact_us" data-name="ilustrasi contact us" transform="translate(-214 -1921)" clip-path="url(#clip-path)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="97.5" cy="97.5" r="97.5" transform="translate(325 1891)" fill="#e7ddfb"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="213.5" cy="213.5" r="213.5" transform="translate(106 2038)" fill="#f7ebff"/>
+    <g id="Group_2360" data-name="Group 2360" transform="translate(296 23)">
+      <g id="Group_2361" data-name="Group 2361" transform="translate(106 1949)">
+        <g transform="matrix(1, 0, 0, 1, -188, -51)" filter="url(#Rectangle_3548)">
+          <g id="Rectangle_3548-2" data-name="Rectangle 3548" transform="translate(188 51)" stroke="#fff" stroke-width="4" fill="url(#linear-gradient)">
+            <rect width="196" height="196" rx="40" stroke="none"/>
+            <rect x="2" y="2" width="192" height="192" rx="38" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_2360-2" data-name="Group 2360">
+          <g id="Mask_Group_2" data-name="Mask Group 2" clip-path="url(#clip-path-2)">
+            <path id="Path_3595" data-name="Path 3595" d="M135.985,19.9q21.857,19.908,21.856,54.373c0,12.421-2.043,23.245-6.259,32.766-3.655,8.259-48.1.953-46.585-.088C114.3,100.577,119.1,89.616,119.1,74.274q0-18.832-10.839-29.5T78.236,34.117q-19.19,0-30.207,10.306T37.012,73.208H13.868c-14.881-14.215-2.519-42.528-.754-44.887A66.088,66.088,0,0,1,36.124,9.24Q54.065,0,77.881,0q36.249,0,58.1,19.9" transform="translate(-10.455 85.072)" fill="#fff" opacity="0.16"/>
+            <path id="Path_3596" data-name="Path 3596" d="M49.2,88.931v19.642H24.566V93.148m-1,65.192a18.166,18.166,0,0,1,12.939-31.1A17.279,17.279,0,0,1,49.2,132.461a18.634,18.634,0,0,1,0,25.878,17.279,17.279,0,0,1-12.691,5.225A17.573,17.573,0,0,1,23.57,158.34" transform="translate(2.806 -87.969)" fill="#fff" opacity="0.16"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -188, -51)" filter="url(#Rectangle_3557)">
+            <g id="Rectangle_3557-2" data-name="Rectangle 3557" transform="translate(314 177)" stroke="#fff" stroke-width="4" fill="url(#linear-gradient)">
+              <rect width="110" height="110" rx="55" stroke="none"/>
+              <rect x="2" y="2" width="106" height="106" rx="53" fill="none"/>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -188, -51)" filter="url(#Path_3594)">
+            <path id="Path_3594-2" data-name="Path 3594" d="M87.1,12.653Q101,25.311,101,47.224q0,22.825-14.461,34.345T48.127,93.092l-.9,17.85H24.855l-1.13-35.474h7.457q21.913,0,33.553-5.875T76.371,47.224q0-11.974-6.891-18.754T50.387,21.692q-12.2,0-19.206,6.552t-7,18.3H0A47.664,47.664,0,0,1,6.1,22.37,41.682,41.682,0,0,1,23.612,5.875Q35.019,0,50.161,0,73.208,0,87.1,12.653M23.951,156.132A16.5,16.5,0,0,1,35.7,127.888a15.691,15.691,0,0,1,11.524,4.745,16.921,16.921,0,0,1,0,23.5A15.69,15.69,0,0,1,35.7,160.878a15.958,15.958,0,0,1-11.75-4.745" transform="translate(320 92)" fill="#fbc713"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

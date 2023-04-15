@@ -1,0 +1,184 @@
+@import "../../binus-2022-core/sass/toolkit/univ.scss";
+
+.container{
+    margin: auto;
+    padding: 48px 16px 48px;
+}
+
+.bg-gradient-blue {
+    background: transparent linear-gradient(180deg, #016394 0%, #028ED5 100%) 0% 0% no-repeat padding-box;
+}
+
+.block-people,
+.block-achievement,
+.block-video,
+.block-articles {
+    .block-header.type-1 {
+        margin-bottom: 32px;
+    }
+}
+
+.header-greetings {
+    color: $brand-primary;
+}
+
+.block-about-type2{
+    background: transparent linear-gradient(180deg, #028ED5 0%, #4EB0E1 100%) 0% 0% no-repeat padding-box;
+
+}
+
+#block-about{
+    background: transparent linear-gradient(180deg, #028ED5 0%, #0280E1 100%) 0% 0% no-repeat padding-box;
+    color:#FFFFFF ;
+    opacity: 1;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 25px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: -10px;
+    text-transform: uppercase;
+    font-weight: 400 'semibold';
+
+    .image{
+        padding: 0px 550px;
+    }
+
+    .about-title{
+        color:#FFFFFF ;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 32px;
+        font-weight: 400 'semi bold';
+    }
+    
+}
+
+.block-greetings h1{
+    font-size: xx-large;
+}
+
+
+#slideshow-container {
+    .splide {
+        .splide__arrows {
+            height: 0;
+        }
+        .splide__arrow {
+            border-color: $orange;
+        }
+    }
+    .slide-title {
+        display: none;
+    }
+    .btn-learn-more {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: 0;
+        padding: 0;
+        width: auto;
+        font-size: 0;
+        border: 0;
+        background: transparent;
+    }
+}
+
+#block-news{
+    background: transparent linear-gradient(180deg, #028ED5 0%, #028ED9 100%) 0% 0% no-repeat padding-box;
+    color: #fff;
+    border-radius: 16px;
+    padding-top: 0px;
+    h1{
+        color:#fff;
+    }
+}
+
+.block-catatan-dosen{
+    background: transparent linear-gradient(180deg, #028ED5 0%, #028ED9 100%) 0% 0% no-repeat padding-box;
+    color: #fff;
+    border-radius: 16px;
+    h1{
+        color:#fff;
+    }   
+}
+
+#con-people{
+    top: 1618px;
+    left: 0px;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding-bottom: 12px;
+}
+
+.block-articles {
+    background: transparent linear-gradient(180deg, #028ED5 0%, #0171A9 100%) 0% 0% no-repeat padding-box;
+    .post-title{
+        color:#5E5E5E;
+        font-size: 20px !important;
+    }
+    .post-roll {
+        color: $font-color;
+    }
+    .read-more.type-1 {
+        margin-top: 16px;
+    }
+
+}
+
+#block-achievement{
+    background: transparent linear-gradient(180deg, #fff 0%, #02ff11 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 12px #00000029;
+    border-radius: 16px;
+    }
+    
+#block-achievement deffer{
+    width: 400px;
+    height: 400px;
+}
+
+.block-partner{
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#block-group-newsandevents{
+    margin-bottom: -48px;
+}
+
+.block-video{
+    background: transparent linear-gradient(180deg, #028ED5 0%, #0171A9 100%) 0% 0% no-repeat padding-box;
+}
+
+// .block-testimonial{
+//     background: transparent linear-gradient(180deg, #028ED5 0%, #0171A9 100%) 0% 0% no-repeat padding-box;
+// }
+
+// .testimonial.type-5 .post .wrapper{
+//     color: #5E5E5E;
+// }
+
+.block-testimonial-wrapper {
+    background-color: #0171A9;
+    .testimonial {
+        color: $font-color;
+    }
+}
+
+.block-events{
+    .read-more.type-1{
+        color: #028ED5;
+    }
+}
+
+.block-student-activities{
+    .read-more.type-1{
+        color: #028ED5;
+    }
+}
+
+.footer{
+    background-color: #EBEBEB;
+}
